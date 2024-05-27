@@ -2,7 +2,7 @@
 
 ![1_3DUde1poGbZAOIaPQiE8GA](https://github.com/sftSalman/FaceRecognize_varification_detection_Tensorflow/assets/33355278/327f1f44-da99-4c68-a115-3b8d5fbd5f27)
 
-- ![Photo Source](https://medium.com/@culuma/face-recognition-with-facenet-and-mtcnn-11e77240adb6)
+- [Photo Source](https://medium.com/@culuma/face-recognition-with-facenet-and-mtcnn-11e77240adb6)
 
 
 ## How FaceNet Works
