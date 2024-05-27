@@ -15,6 +15,8 @@ The key innovation of FaceNet lies in its use of a triplet loss function during 
 - Implementation of the FaceNet model for face recognition.
 - Generation of high-quality face embeddings.
 - Accurate recognition of faces based on their unique features.
+## FaceNet: A Unified Embedding for Face Recognition and Clustering 
+(https://arxiv.org/abs/1503.03832)
 
 ## Contributing
 
