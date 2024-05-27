@@ -3,7 +3,10 @@
 ![1_3DUde1poGbZAOIaPQiE8GA](https://github.com/sftSalman/FaceRecognize_varification_detection_Tensorflow/assets/33355278/327f1f44-da99-4c68-a115-3b8d5fbd5f27)
 
 
-This project aims to provide an implementation of face recognition using the powerful FaceNet model. FaceNet is a deep learning model capable of generating high-quality face embeddings that capture unique facial features, enabling accurate face recognition.
+
+                                                             [Source](https://medium.com/@culuma/face-recognition-with-facenet-and-mtcnn-11e77240adb6)
+
+
 
 ## How FaceNet Works
 
