@@ -1,4 +1,5 @@
 # Face Recognition with FaceNet
+![Uploading 1_3DUde1poGbZAOIaPQiE8GA.gif…]()
 
 This project aims to provide an implementation of face recognition using the powerful FaceNet model. FaceNet is a deep learning model capable of generating high-quality face embeddings that capture unique facial features, enabling accurate face recognition.
 
