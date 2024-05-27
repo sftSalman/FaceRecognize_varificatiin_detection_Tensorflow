@@ -4,8 +4,7 @@
 
 
 
-                                                             [Source](https://medium.com/@culuma/face-recognition-with-facenet-and-mtcnn-11e77240adb6)
-
+                                         [Source](https://medium.com/@culuma/face-recognition-with-facenet-and-mtcnn-11e77240adb6)
 
 
 ## How FaceNet Works
